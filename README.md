@@ -1,0 +1,2 @@
+# food-delivery-app
+An API product for a Food Delivery System that allows customers to browse restaurants and menus, place orders, track deliveries, and manage accounts. Restaurants can manage their menus and orders, while delivery personnel can accept and track deliveries. Administrators can manage the platform’s users and orders. This project emphasizes secure design, user roles, data validation, and proper documentation.
